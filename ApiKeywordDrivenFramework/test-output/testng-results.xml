@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="6" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30639" started-at="2021-01-09T00:51:46Z" finished-at="2021-01-09T00:52:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30639" started-at="2021-01-09T00:51:46Z" finished-at="2021-01-09T00:52:16Z">
+      <class name="org.testing.TestScripts.TC02_Get_AllData_TestCase">
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:org.testing.TestScripts.TC02_Get_AllData_TestCase@7d68ef40]" name="testCase2" duration-ms="922" started-at="2021-01-09T06:22:15Z" finished-at="2021-01-09T06:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- org.testing.TestScripts.TC02_Get_AllData_TestCase -->
+      <class name="org.testing.TestScripts.TC06_Delete_TestCase">
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:org.testing.TestScripts.TC06_Delete_TestCase@5b0abc94]" name="testCase6" duration-ms="119" started-at="2021-01-09T06:22:16Z" finished-at="2021-01-09T06:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+      </class> <!-- org.testing.TestScripts.TC06_Delete_TestCase -->
+      <class name="org.testing.TestScripts.TC01_Post_TestCase">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.testing.TestScripts.TC01_Post_TestCase@3ec300f1]" name="testCase1" duration-ms="29099" started-at="2021-01-09T06:21:46Z" finished-at="2021-01-09T06:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- org.testing.TestScripts.TC01_Post_TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

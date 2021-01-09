@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.TestScripts.TC04_Put_TestCase"/>
+      <class name="org.testing.TestScripts.TC01_Post_TestCase"/>      
+      <class name="org.testing.TestScripts.TC03_Get_WithEndpoints_TestCase"/>
+      <class name="org.testing.TestScripts.TC02_Get_AllData_TestCase"/>   
+      <class name="org.testing.TestScripts.TC05_Patch_TestCase"/>               
+      <class name="org.testing.TestScripts.TC06_Delete_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
